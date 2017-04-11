@@ -1,0 +1,2 @@
+## math
+$$\alpha = y$$
